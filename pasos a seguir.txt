@@ -1,0 +1,10 @@
+Aqui escribiré los pasos que voy a seguir para ser full stack developer:
+
+1. HTML
+2. CSS
+3. JavaScript
+4. Git y GitHub
+5. React
+6. NodeJS
+7. SQL con MySQL
+8. 
